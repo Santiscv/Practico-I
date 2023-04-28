@@ -20,3 +20,7 @@ Consecuentemente se realizo el comando :
 
 git commit -m "Texto" (Para dejar una muestra de lo que se hizo en el)
 
+3) Se realizo un push con el comando:
+
+Git push.
+
