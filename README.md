@@ -89,11 +89,27 @@ Style.css U
 3) se añadio el archivo correspondientes con el comando:
 
 git add README.md 
-
 git commit -m "Se modifico el archivo de informe.
 
+git add index.html
+git commit -m "Se añadio el archivo de la estructura de pagina web"
 
-4) Se pusieron commits pertinentes al trabajo realizado con el comando:
+git add style.css
+git commit -m "Se añadio el archivo de estilos para esa pagina web 
+
+
+
+4) Se fueron realizando cambios en esos tres archivos y luego fueron agregados al stage:
+
+git add README.md 
+git commit -m "Se modifico el archivo de informe para nuevo contenido".
+
+git add index.html
+git commit -m "Se añadio una imagen a la pagina web"
+
+git add style.css
+git commit -m "Se añadio  estilos a esa pagina web 
+
 
 
 
