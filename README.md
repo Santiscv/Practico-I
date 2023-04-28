@@ -108,8 +108,31 @@ git add index.html
 git commit -m "Se añadio una imagen a la pagina web"
 
 git add style.css
-git commit -m "Se añadio  estilos a esa pagina web 
+git commit -m "Se añadio  estilos a ese contenedor de imagen"
 
+Cambios 2:
+
+git add README.md 
+git commit -m "Se modifico el informe para nuevo contenido".
+
+git add index.html
+git commit -m "Se añadio un parrafo a la pagina web"
+
+git add style.css
+git commit -m "Se añadio estilos a ese parrafo"
+
+5) Se hizo un push con el comando:
+
+git push
+
+6) se realizo una fusion de esas dos ramas con el comando:
+
+git checkout master
+git merge segunda-rama
+
+7) fin del estudiante II:
+
+git push
 
 
 
