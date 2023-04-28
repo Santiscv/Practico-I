@@ -42,3 +42,8 @@ git checkout nueva-rama
 
 4) Se volviò a modificar el archivo README con nuevos puntos para el estudiante 2.
 
+5) El estudiante 2 se olvido de agregar a la zona de stage y el commit del archivo README con sus nuevas modificaciones antes de hacer el push de nueva-rama, asi que se procede a hacerlo:
+
+git add README.md
+
+git commit -m "se añadio el contenido del estudiante II"
