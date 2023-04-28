@@ -23,4 +23,22 @@ git commit -m "Texto" (Para dejar una muestra de lo que se hizo en el)
 3) Se realizo un push con el comando:
 
 Git push.
+--------------------------------------------------------------------------------------------------------------
+
+Estudiante 2
+
+
+1) Se clonò el repositorio desde github con el comando:
+
+git clone https://github.com/Santiscv/Practico-I
+
+2) Se creò una nueva rama llamada "nueva-rama" con el comando:
+
+git branch nueva-rama
+
+3) Se paso de la rama "master" a "nueva-rama" con el comando:
+
+git checkout nueva-rama
+
+4) Se volviò a modificar el archivo README con nuevos puntos para el estudiante 2.
 
