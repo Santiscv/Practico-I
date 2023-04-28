@@ -25,8 +25,6 @@ git commit -m "Texto" (Para dejar una muestra de lo que se hizo en el)
 Git push.
 --------------------------------------------------------------------------------------------------------------
 
-Estudiante 2
-
 
 1) Se clonò el repositorio desde github con el comando:
 
@@ -47,3 +45,55 @@ git checkout nueva-rama
 git add README.md
 
 git commit -m "se añadio el contenido del estudiante II"
+
+-----------------------------------------------------------------------------------------------------------
+Estudiante 2:
+
+1) Se pregunto en que rama estabamos parados con el comando:
+
+git branch
+
+esto retorno:
+
+*master
+
+es por ello que me movi a otra rama con el comando:
+
+git checkout nueva-rama
+
+para poder crear una nueva rama:
+
+git branch segunda-rama
+
+moverme a ella:
+
+git checkout segunda-rama 
+
+
+2)Ya en la rama nueva creada,se agregaron dos archivos:
+
+Index.html
+Style.css
+
+para luego agregarle contenido apto.
+
+2) Se pregunto que archivos habian fuera del stage:
+
+git status.
+
+esto retorno:
+README.md M
+Index.html U
+Style.css U
+
+3) se añadio el archivo correspondientes con el comando:
+
+git add README.md 
+
+git commit -m "Se modifico el archivo de informe.
+
+
+4) Se pusieron commits pertinentes al trabajo realizado con el comando:
+
+
+
