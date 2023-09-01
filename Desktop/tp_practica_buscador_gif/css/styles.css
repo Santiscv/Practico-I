@@ -1,0 +1,19 @@
+body{
+    display: grid;
+    background-color: #eaac8b;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.entrada_texto .hover{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+}
+
+.buscador .hover{
+    columns: 2px, 2px, 2px;
+    width: 2px, 2px, 2px;
+   background-color: #B56576; 
+}
